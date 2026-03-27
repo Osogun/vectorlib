@@ -1,5 +1,5 @@
 # vectorlib
-# vectorlib
+
 Narzędzia do przetwarzania i analizy danych telemetrycznych z systemu Vector.
 
 Pobieranie poprzez pip:
