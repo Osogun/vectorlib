@@ -1,0 +1,10 @@
+{
+	"Vector": {
+		"Host": "hostaneme or IP",
+		"Port": 1521,
+		"Service": "ServiceName",
+		"User": "Username",
+		"Password": "Password"
+	}
+}
+					
